@@ -38,18 +38,18 @@
 ---
 
 ### 🚀 Featured Projects
-
+<!--
 1. **E-commerce Backend API**  
    RESTful API built with Node.js/Express and MongoDB  
    [GitHub Repo](https://github.com/your-username/project-link) | [Live Demo](#)
+-->
+1. **Task Management System**  
+   Fullstack application with Angular,SpringBoot and PostgreSQL  
+   [GitHub Repo](https://github.com/D0ngk1/Todo-App) | <!--  [Postman Documentation](#)  -->
 
-2. **Task Management System**  
-   Fullstack application with Django and PostgreSQL  
-   [GitHub Repo](https://github.com/your-username/project-link) | [Postman Documentation](#)
-
-3. **API Integration Middleware**  
+2. **API Integration Middleware**  
    Microservice handling third-party API integrations  
-   [GitHub Repo](https://github.com/your-username/project-link)
+   [GitHub Repo](https://github.com/D0ngk1/Dictionaryl)
 
 ---
 
