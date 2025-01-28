@@ -1,4 +1,4 @@
-# Hi there, I'm Daryl GUzman 👋
+# Hi there, I'm Daryl Guzman 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daryl-guzman-82556a256/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/D0ngk1)
