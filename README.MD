@@ -45,7 +45,7 @@
 -->
 1. **Task Management System**  
    Fullstack application with Angular,SpringBoot and PostgreSQL  
-   [GitHub Repo](https://github.com/D0ngk1/Todo-App) | <!--  [Postman Documentation](#)  -->
+   [GitHub Repo](https://github.com/D0ngk1/Todo-App) <!--  |  [Postman Documentation](#)  -->
 
 2. **API Integration Middleware**  
    Microservice handling third-party API integrations  
@@ -63,6 +63,7 @@
 ### 🌱 Currently Learning
 
 - Microservices architecture patterns
+- Mobile app development
 - API design best practices
 - Database optimization techniques
 - Cloud deployment (AWS/DigitalOcean)
@@ -73,7 +74,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daryl-guzman-82556a256/)
 - ✉️ [Email](mailto:your.darylgzmn@gmail.com)
-- 🐦 [Twitter](https://twitter.com/your-handle) (optional)
+<!-- - 🐦 [Twitter](https://twitter.com/your-handle) (optional) -->
 
 Open to collaborations, mentorship opportunities, and junior developer roles!
 
